@@ -1,0 +1,10 @@
+numpy
+pandas
+seaborn
+matplotlib
+plotly
+cufflinks
+Pillow
+streamlit
+streamlit-option-menu
+wordcloud
